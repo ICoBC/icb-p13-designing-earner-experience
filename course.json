@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-P13",
+  "repository": "icb-p13-designing-earner-experience",
+  "repository_url": "https://github.com/ICoBC/icb-p13-designing-earner-experience",
+  "title": "Designing the Earner Experience",
+  "subtitle": "From claim rates to career use.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Earner experience and agency",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-EXPR-L3-A",
+  "badge_name": "Designing the Earner Experience (Ability, L3)",
+  "hours": "6",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p13/",
+  "parts": [
+    "About this course",
+    "Journey mapping",
+    "Data and earner research",
+    "Interventions",
+    "Testing and measuring",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 16
+}
